@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Kenton",
+    "lastName": "Johnson",
+    "password": "P@ssword123",
+    "userName": "jona.schultz"
+  },
+  {
+    "firstName": "Bobbie",
+    "lastName": "Stracke",
+    "password": "P@ssword123",
+    "userName": "tyron.pfannerstill"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Koepp",
+    "password": "P@ssword123",
+    "userName": "luvenia.kemmer"
+  },
+  {
+    "firstName": "Jamel",
+    "lastName": "Lueilwitz",
+    "password": "P@ssword123",
+    "userName": "hubert.ryan"
+  }
+]
